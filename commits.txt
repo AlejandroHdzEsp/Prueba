@@ -1,0 +1,23 @@
+commit 0408132af56f156ee9199c0341b11b54391a6f3b
+
+Author: Alejandro_11 <brian.190@hotmail.com>
+
+Date:   Wed Aug 21 13:46:20 2019 -0500
+
+    
+Se elimino la liga de google y se cambio el color de parrafo 1
+
+
+commit c637236ccb518a6b05a7ff4e16c72e24abe3f94d
+
+Author: Alejandro_11 <brian.190@hotmail.com>
+
+Date:   Wed Aug 21 13:42:39 2019 -0500
+
+    Cambiamos color de titulo
+
+commit 109c27d592fa0c5dbd9d7ff11a69a9686dccdd6f
+Author: Alejandro_11 <brian.190@hotmail.com>
+Date:   Wed Aug 21 13:37:55 2019 -0500
+
+    Iniciamos

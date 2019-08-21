@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
 
@@ -7,7 +7,7 @@
 <Title>Parrafos con estilos</Title>
 
 <body>
-<h1 style="color:red"> Parrafo 1 </h1>
+<h1 style="color:blue"> Parrafo 1 </h1>
 
 <strike>
 <p>
