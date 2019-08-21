@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+
+<body style="background-color:yellow;">
+
+<Title>Parrafos con estilos</Title>
+
+<body>
+<h1 style="color:red"> Parrafo 1 </h1>
+
+<strike>
+<p>
+Todas  las  tramas  deben  enviarse  a  un  nodo  de  un  segmento  de  red  local.  Si  el  host  IPv4  de  destino  se encuentra en la red local, la trama utilizará la dirección MAC de este dispositivo como la dirección MAC de 
+destino.
+</p>
+</strike>
+<h2 style="color:red"> Parrafo 2 </h2>
+
+<p>
+<center>
+Si el host IPv4 de destino no se encuentra en la red local, el nodo de origen necesita enviar la trama a la 
+interfaz del router que es el gateway o el siguiente salto que se utiliza para llegar a dicho destino. El nodo de 
+origen utilizará la dirección MAC del gateway como dirección de destino para las tramas que contengan un 
+paquete IPv4 dirigido a hosts que se encuentren en otras redes.
+</p>
+</center>
+<h3 style="color:red"> Parrafo 3 </h3>
+<font face="verdana" color="black">
+<p>
+La dirección de gateway de la interfaz del router se almacena en la configuración IPv4 de los hosts. Cuando 
+un host crea un paquete para un destino, compara la dirección IP de destino con su propia dirección IP para 
+determinar  si  las  dos  direcciones  IP  se  encuentran  en  la  misma  red  de  Capa  3.  Si  el  host  receptor  no  se encuentra en la misma red, el origen utiliza el proceso de ARP para determinar una dirección MAC para la interfaz del router que sirve de gateway.
+</p>
+<strong>
+<h4 style="color:red"> Parrafo 4 </h4>
+
+<p>
+En caso de que la entrada de gateway no se encuentre en la tabla, el proceso de ARP normal enviará una 
+solicitud de ARP para recuperar la dirección MAC asociada con la dirección IP de la interfaz del router.
+</p>
+</strong>
+</font>
+<a href="https://www.google.com.mx/"> Google </a>
+<br>
+<a href="https://www.facebook.com/" target="_blank"> Facebook </a>
+<br>
+<center>
+<h1 style="color:red"> RECETA PATATAS FRITAS </h1>
+
+	<img src="http://i1.wp.com/www.pormisperolas.com/wp-content/uploads/2013/04/2013_04140064.jpg?resize=640%2C480">
+</center>
+
+<p>
+<h3 style="color:red"> 1. Pela y corta las patatas en bastones</h3>
+<br>
+
+¿De qué tamaño? Esto es cuestión de gustos, pero el estándar dicta que deben tener una longitud de entre 7 y 15 centímetros (algo que depende, claro está, del tamaño de la patata) y un grosor de un centímetro. En cualquier caso, todos los chefs cortan las patatas fritas a ojo: no es algo que influya de forma determinante en su exquisitez. De hecho, la irregularidad es una de las cosas que buscamos en una buena patata frita casera.
+
+<br>
+<br>
+<h3 style="color:red">2. Primera fritura</h3>
+<br>
+
+La temperatura ideal para la primera fritura es de aproximadamente 140ºC. ¿Cómo calculamos esto si no disponemos de freidora? Un truco sencillo consiste en echar una miga de pan en la sartén. Si cae al fondo, significa que el aceite no está demasiado caliente. Ve echando las patatas poco a poco. Es muy importante no echar demasiadas patatas a la vez, pues estas deben estar bien recubiertas en aceite y no estar apiladas una sobre otras. Además, al echar las patatas la temperatura baja, así que lo mejor es hacer las patatas en varias tandas. Se deben retirar las patatas cuando se vean ligeramente doradas, pero no fritas del todo.
+<br>
+<br>
+<h3 style="color:red">3. Reposo </h3>
+<br>
+
+Una vez realizada la primera fritura debes dejar que las patatas se enfríen antes de empezar con la segunda, para que se forme bien la gelatina de la que hablábamos antes. Hay cocineros que en esta fase introducen las patatas en el congelador, durante unos 20 minutos, pues el contacto con el frío hace que la patata se compacte y coja más cuerpo de cara a la siguiente fritura.
+
+<br>
+<br>
+<h3 style="color:red">4. Segunda fritura</h3>
+<br>
+
+En esta ocasión el aceite tiene que estar a una temperatura de unos 180º. Si no contamos con termómetro podemos volver a usar el truco de la miga de pan, pero esta vez debe flotar en la superficie. Echa de nuevo las patatas, por tandas, y deja que se frían durante como mucho dos minutos, hasta que estén bien crujientes. Retíralas sobre papel de cocina, para que absorba el aceite sobrante y echa la sal inmediatamente.
+</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWaJGkUxaw8" frameborder="0" allowfullscreen></iframe>
+	
+</center>
+<center>
+<p><table border="2px">
+            <tr>
+                <td rowspan="3" bgcolor="red">Integrantes</td>
+                <td>Brian</td>
+            <tr>
+                <td>Diego</td>
+            </tr>
+            <tr>
+                <td>Christian</td>
+            </tr>
+            </table>
+    <br>
+ <p><table border="2px">
+            <tr>
+                <td rowspan="3" bgcolor="blue">Numeros De Control</td>
+                <td>14151253</td>
+            <tr>
+                <td>14151161</td>
+            </tr>
+            <tr>
+                <td>1415....</td>
+            </tr>
+            </table>
+</center>
+
+<center>
+<h2 style="color:blue">Traicionera - Sebastian Yatra</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NE3IkFadCHM" frameborder="0" allowfullscreen></iframe></center>
+
+</body>
+
+</html>
